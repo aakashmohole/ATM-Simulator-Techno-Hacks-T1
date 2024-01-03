@@ -21,9 +21,12 @@ The ATM Simulator Python project is a command-line-based application that simula
 - Users can deposit funds into their accounts by specifying the amount.
 
 ## 🏆 Future Enhancements:
-GUI Integration: Implement a graphical user interface for a more user-friendly experience.
-Database Integration: Integrate a database for persistent storage of user accounts and transactions.
-Multi-User Support: Extend the application to support multiple users with unique account details.
+### GUI Integration: 
+- Implement a graphical user interface for a more user-friendly experience.
+### Database Integration: 
+- Integrate a database for persistent storage of user accounts and transactions.
+### Multi-User Support: 
+- Extend the application to support multiple users with unique account details.
 
 ## Technologies 🛠️
 * `Python`
