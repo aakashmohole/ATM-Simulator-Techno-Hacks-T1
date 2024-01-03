@@ -31,6 +31,5 @@ Multi-User Support: Extend the application to support multiple users with unique
 
 
 ## How it looks 🎥
-
-
-https://user-images.githubusercontent.com/71933266/174468662-6e582a79-34eb-4056-815a-5b2857bf0073.mp4
+``` bash
+https://github.com/aakashmohole/ATM-Simulator-Techno-Hacks-T1/blob/main/ATM%20SIMULATOR.mp4
